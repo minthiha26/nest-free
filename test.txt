@@ -1,0 +1,36 @@
+express.js
+server.js => routes, controller, service
+route 1 => controller 1 => service 1
+
+module
+controller
+service
+
+
+module 
+products module => crud / filter /
+
+users model => register / user crud
+
+service
+business logic 
+req => db => res
+
+controller
+http req => accept 
+get post put patch delete 
+
+Nest.js Architecture 
+
+Client => Http req => controller => service => DB => service => http res => client
+
+
+Nest client
+nest g module posts
+nest g controller posts
+nest g service posts
+
+nest g resource posts
+Rest API 
+
+nest g resource users
